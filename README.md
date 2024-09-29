@@ -1,1 +1,1 @@
-# block2Project
+This repo is to store and present the personal projects of Bode Packer. This is being set up for the block2 Ethics in Computing project and is a demonstration of licences and publicly available repositories. 
